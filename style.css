@@ -1,3 +1,15 @@
+/* style.css */
 body {
-  background-color: coral;
+  background-color: lightblue;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+p {
+  color: #333;
+  font-size: 16px;
 }
